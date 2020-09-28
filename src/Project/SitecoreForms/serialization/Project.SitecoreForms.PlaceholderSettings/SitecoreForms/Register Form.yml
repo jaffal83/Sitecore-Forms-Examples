@@ -1,0 +1,18 @@
+﻿---
+ID: "5840133e-4e46-4e18-912c-67f651767a9c"
+Parent: "6cf55936-0b82-4ef5-9dc2-81d8ae0a8ddb"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/SitecoreForms/Register Form
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "register-form"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T124758Z

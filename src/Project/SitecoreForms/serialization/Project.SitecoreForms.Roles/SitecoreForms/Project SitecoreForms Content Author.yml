@@ -1,0 +1,8 @@
+---
+Role: |
+  SitecoreForms\Project SitecoreForms Content Author
+MemberOf:
+  Role: |
+    sitecore\Author
+  Role: |
+    sitecore\Designer

@@ -1,0 +1,18 @@
+﻿---
+ID: "727a44e4-33d1-4d90-a829-8eb240729023"
+Parent: "2a24448f-6a08-4b97-8f7c-8c74e0985c6e"
+Template: "6abee1f2-4ab4-47f0-ad8b-bdb36f37f64c"
+Path: /sitecore/Forms/Account/Register Form
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200924T190601Z
